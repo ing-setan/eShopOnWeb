@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-ingsetan
   LOCATION: australiaeast
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/992835c0-0dcc-4372-bff3-40a085a0da8b
+  SUBSCRIPTION-ID: 992835c0-0dcc-4372-bff3-40a085a0da8b
   WEBAPP-NAME: eshoponweb-webapp-ingsetan
 
 
